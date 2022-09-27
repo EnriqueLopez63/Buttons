@@ -1,0 +1,42 @@
+.button1{
+  color: white;
+  text-align: center;
+  line-height: 28px;
+  width: 94px;
+  height: 32px;
+  left: 100px;
+  background: #646F4B;
+  border-radius: 10px;
+  
+
+}
+
+
+
+.button2{
+  position: relative;
+  width: 131px;
+  height: 49px;
+  left: 200px;
+  background: #7BB2D9;
+  border-radius: 10px;
+  text-align: center;
+  line-height: 35px;
+  font-size: 25px;
+  color: #000000;
+
+}
+
+.button3{
+  position: relative;
+  width: 131px;
+  height: 49px;
+  left: 200px;
+  background: #839D9A;
+  border-radius: 10px;
+  text-align: center;
+  line-height: 35px;
+  font-size: 25px;
+  color: #000000;
+
+} 
